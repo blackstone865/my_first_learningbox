@@ -1,0 +1,34 @@
+颁发给	颁发者	截止日期	预期目的	友好名称	状态	证书模板
+AAA Certificate Services	AAA Certificate Services	2029/1/1	客户端身份验证, 代码签名, 加密文件系统, 安全电子邮件, IP 安全隧道终止, IP 安全用户, 服务器身份验证, 时间戳	Sectigo (AAA)	    	
+Class 3 Public Primary Certification Authority	Class 3 Public Primary Certification Authority	2028/8/2	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证	VeriSign Class 3 Public Primary CA	    	
+Copyright (c) 1997 Microsoft Corp.	Copyright (c) 1997 Microsoft Corp.	1999/12/31	时间戳	Microsoft Timestamp Root	    	
+DigiCert Assured ID Root CA	DigiCert Assured ID Root CA	2031/11/10	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证, 时间戳	DigiCert	    	
+DigiCert CS RSA4096 Root G5	DigiCert CS RSA4096 Root G5	2046/1/15	代码签名, 时间戳	DigiCert CS RSA4096 Root G5	    	
+DigiCert Global Root CA	DigiCert Global Root CA	2031/11/10	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证, 时间戳	DigiCert	    	
+DigiCert Global Root G2	DigiCert Global Root G2	2038/1/15	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证, 时间戳	DigiCert Global Root G2	    	
+DigiCert Global Root G3	DigiCert Global Root G3	2038/1/15	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证, 时间戳	DigiCert Global Root G3	    	
+DigiCert High Assurance EV Root CA	DigiCert High Assurance EV Root CA	2031/11/10	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证, 时间戳	DigiCert	    	
+DigiCert Trusted Root G4	DigiCert Trusted Root G4	2038/1/15	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证, 时间戳	DigiCert Trusted Root G4	    	
+Entrust.net Certification Authority (2048)	Entrust.net Certification Authority (2048)	2029/7/24	客户端身份验证, 代码签名, 加密文件系统, 安全电子邮件, IP 安全隧道终止, IP 安全用户, 服务器身份验证, 时间戳	Entrust (2048)	    	
+GlobalSign	GlobalSign	2029/3/18	客户端身份验证, 代码签名, 加密文件系统, 安全电子邮件, IP 安全隧道终止, IP 安全用户, 服务器身份验证, 时间戳	GlobalSign Root CA - R3	    	
+GlobalSign	GlobalSign	2034/12/10	客户端身份验证, 代码签名, 文档签名, 加密文件系统, 安全电子邮件, OCSP 签名, 服务器身份验证, 时间戳	GlobalSign Root CA - R6	    	
+GlobalSign Root CA	GlobalSign Root CA	2028/1/28	客户端身份验证, 代码签名, 加密文件系统, 安全电子邮件, IP 安全 IKE 中级, IP 安全隧道终止, IP 安全用户, OCSP 签名, 服务器身份验证, 时间戳	GlobalSign Root CA - R1	    	
+GlobalSign Timestamping Root R45	GlobalSign Timestamping Root R45	2045/3/18	时间戳	GlobalSign Timestamping Root R45	    	
+ISRG Root X1	ISRG Root X1	2035/6/4	客户端身份验证, 服务器身份验证	ISRG Root X1	    	
+Microsoft Authenticode(tm) Root Authority	Microsoft Authenticode(tm) Root Authority	2000/1/1	安全电子邮件, 代码签名	Microsoft Authenticode(tm) Root	    	
+Microsoft ECC Product Root Certificate Authority 2018	Microsoft ECC Product Root Certificate Authority 2018	2043/2/28	<所有>	Microsoft ECC Product Root Certificate Authority 2018	    	
+Microsoft ECC TS Root Certificate Authority 2018	Microsoft ECC TS Root Certificate Authority 2018	2043/2/28	<所有>	Microsoft ECC TS Root Certificate Authority 2018	    	
+Microsoft Identity Verification Root Certificate Authority 2020	Microsoft Identity Verification Root Certificate Authority 2020	2045/4/17	代码签名, 时间戳	Microsoft Identity Verification Root Certificate Authority 2020	    	
+Microsoft Root Authority	Microsoft Root Authority	2020/12/31	<所有>	Microsoft Root Authority	    	
+Microsoft Root Certificate Authority	Microsoft Root Certificate Authority	2021/5/10	<所有>	Microsoft Root Certificate Authority	    	
+Microsoft Root Certificate Authority 2010	Microsoft Root Certificate Authority 2010	2035/6/24	<所有>	Microsoft Root Certificate Authority 2010	    	
+Microsoft Root Certificate Authority 2011	Microsoft Root Certificate Authority 2011	2036/3/23	<所有>	Microsoft Root Certificate Authority 2011	    	
+Microsoft Time Stamp Root Certificate Authority 2014	Microsoft Time Stamp Root Certificate Authority 2014	2039/10/23	<所有>	Microsoft Time Stamp Root Certificate Authority 2014	    	
+NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc.	NO LIABILITY ACCEPTED, (c)97 VeriSign, Inc.	2004/1/8	时间戳	VeriSign Time Stamping CA	    	
+Starfield Services Root Certificate Authority - G2	Starfield Services Root Certificate Authority - G2	2038/1/1	客户端身份验证, 代码签名, 加密文件系统, 安全电子邮件, IP 安全隧道终止, IP 安全用户, 服务器身份验证, 时间戳	Amazon Services Root Certificate Authority -- G2	    	
+Symantec Enterprise Mobile Root for Microsoft	Symantec Enterprise Mobile Root for Microsoft	2032/3/15	代码签名	<无>	    	
+Thawte Timestamping CA	Thawte Timestamping CA	2021/1/1	时间戳	Thawte Timestamping CA	    	
+USERTrust ECC Certification Authority	USERTrust ECC Certification Authority	2038/1/19	客户端身份验证, 代码签名, 加密文件系统, 安全电子邮件, IP 安全隧道终止, IP 安全用户, 服务器身份验证, 时间戳	Sectigo ECC	    	
+USERTrust RSA Certification Authority	USERTrust RSA Certification Authority	2038/1/19	客户端身份验证, 代码签名, 加密文件系统, 安全电子邮件, IP 安全隧道终止, IP 安全用户, 服务器身份验证, 时间戳	Sectigo	    	
+VeriSign Class 3 Public Primary Certification Authority - G5	VeriSign Class 3 Public Primary Certification Authority - G5	2036/7/17	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证	VeriSign	    	
+VeriSign Universal Root Certification Authority	VeriSign Universal Root Certification Authority	2037/12/2	客户端身份验证, 代码签名, 安全电子邮件, 服务器身份验证, 时间戳	VeriSign Universal Root Certification Authority	    	
