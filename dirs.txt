@@ -1,0 +1,8 @@
+admin
+login
+backup
+config.php
+api
+images
+uploads
+test
